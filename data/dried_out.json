@@ -1,30 +1,18 @@
 {
-    "id": 153,
-    "name": "Dried Out",
-    "author": "PGThe3G",
-    "creators": ["PGThe3G"],
-    "verifier": "PGThe3G",
-    "verification": "https://www.youtube.com/",
+    "id": 32,
+    "name": "Small Blade",
+    "author": "MeltRay77",
+    "creators": ["MeltRay77"],
+    "verifier": "MeltRay77",
+    "verification": "https://www.youtube.com/watch?v=3FgyFRGG8Bg",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
         {
-            "user": "xyz",
+            "user": "0",
             "link": "https://www.youtube.com/",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Cubeic",
-            "link": "https://www.youtube.com/",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Nojnis",
-            "link": "https://www.youtube.com/",
-            "percent": 100,
-            "hz": 60
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
