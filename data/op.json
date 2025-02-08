@@ -1,6 +1,6 @@
 {
-    "id": 124,
-    "name": "op",
+    "id": 35,
+    "name": "Clubstep",
     "author": "xyz",
     "creators": ["xyz"],
     "verifier": "xyz",
@@ -9,16 +9,10 @@
     "password": "",
     "records": [
         {
-            "user": "PGThe3G",
+            "user": "0",
             "link": "https://www.youtube.com/",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Slopes",
-            "link": "https://www.youtube.com/",
-            "percent": 100,
-            "hz": 120
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
