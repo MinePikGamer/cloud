@@ -1,0 +1,18 @@
+{
+    "id": 41,
+    "name": "Iced Ice No Ice",
+    "author": "TeamSavages",
+    "creators": ["TeamSavages"],
+    "verifier": "TeamSavages",
+    "verification": "https://www.youtube.com/",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": 0",
+            "link": "https://www.youtube.com/",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
